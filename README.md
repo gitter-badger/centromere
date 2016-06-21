@@ -1,5 +1,7 @@
 # Centromere [![Build Status](https://travis-ci.org/blueprintmedicines/centromere.svg?branch=master)](https://travis-ci.org/blueprintmedicines/centromere)  [![Codacy Badge](https://api.codacy.com/project/badge/Grade/5ab173c39407432695f6a5b268135a27)](https://www.codacy.com/app/willoemler/centromere?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=blueprintmedicines/centromere&amp;utm_campaign=Badge_Grade)  [![codecov](https://codecov.io/gh/blueprintmedicines/centromere/branch/master/graph/badge.svg)](https://codecov.io/gh/blueprintmedicines/centromere)
 
+[![Join the chat at https://gitter.im/blueprintmedicines/centromere](https://badges.gitter.im/blueprintmedicines/centromere.svg)](https://gitter.im/blueprintmedicines/centromere?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ### Genomics Data Warehouse and REST API Framework
 
 ## About
